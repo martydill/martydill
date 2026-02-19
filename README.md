@@ -7,7 +7,7 @@
  - A token counter similar to WC https://github.com/martydill/tc
  - A reverse proxy for local development traffic inspection https://github.com/martydill/proxymystuff
 
-### I've also built many things without AI in the past, covering many different domains, platforms, and languages:
+### I've also built many things without AI in the past:
  - 3d engine that can render Quake 3 maps https://github.com/martydill/Fizz3D
  - Operating system https://github.com/martydill/x86os
  - Mocking library for .NET https://github.com/martydill/Mirror
