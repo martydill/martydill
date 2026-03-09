@@ -2,6 +2,7 @@
 
 ### I'm building things with AI:
  - A full-featured coding agent https://github.com/martydill/flexorama
+ - Reverse engineering Wizardry VI, and old DOS game https://github.com/martydill/Wizardry-6-reverse-engineering
  - A web UI for YoLink smart devices https://github.com/martydill/yolink-web-ui
  - An MCP server for YoLink smart devices https://github.com/martydill/yolink-mcp
  - A token counter similar to WC https://github.com/martydill/tc
